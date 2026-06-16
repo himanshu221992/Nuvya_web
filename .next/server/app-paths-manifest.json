@@ -1,8 +1,9 @@
 {
   "/page": "app/page.js",
-  "/about-us/page": "app/about-us/page.js",
   "/baby-gifts/page": "app/baby-gifts/page.js",
   "/blog/page": "app/blog/page.js",
   "/customer-support/page": "app/customer-support/page.js",
-  "/_not-found/page": "app/_not-found/page.js"
+  "/about-us/page": "app/about-us/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/studio/[[...tool]]/page": "app/studio/[[...tool]]/page.js"
 }
